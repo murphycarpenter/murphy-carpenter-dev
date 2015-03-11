@@ -110,7 +110,7 @@ textarea, input, input[type="password" i], input[type="search" i] {
 		color: #777;
 		font-style: italic;
 		margin: 0px !important;
-		padding: 0px 0px 0px 40px !important;
+		padding: 0px 0px 0px 20px !important;
 		border-left: solid 1px #ccc;
 	}
 	
