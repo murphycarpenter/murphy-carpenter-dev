@@ -107,13 +107,16 @@ textarea, input, input[type="password" i], input[type="search" i] {
 	blockquote {
 		font-family: "adobe-garamond-pro",serif;
 		font-size: 1.5em;
-		line-height: 1.25em;
 		color: #777;
 		font-style: italic;
-		margin: 0px;
-		padding: 0px;
+		margin: 0px !important;
+		padding: 0px 0px 0px 40px !important;
 		border-left: solid 1px #ccc;
-		padding-left: 40px;
+	}
+	
+	blockquote p {
+		font-size: .95em !important;
+		line-height: 1.5em !important;
 	}
 
 
